@@ -1,4 +1,4 @@
-# File-informator
+# File-informator (unfinished)
 A simple program to fetches some file information.
 
 **Parameters:**
